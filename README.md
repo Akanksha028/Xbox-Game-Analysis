@@ -9,7 +9,7 @@ Xbox Game Dashboard pulls together data on where games are most popular, which p
 Before this, game performance data was scattered across multiple sources, making it harder for teams to make quick, informed choices. Now, everything is in one place — clear, visual, and ready for action.
 
 
-📌 Key Highlights
+📌 Key Highlights :
 
 • Top Market: Canada leads in game downloads, showing strong player engagement.
 
@@ -18,7 +18,7 @@ Before this, game performance data was scattered across multiple sources, making
 • Quality Growth: Game ratings have improved steadily over recent years.
 
 
-💡 Why This Matters
+💡 Why This Matters :
 
 • This dashboard is more than a report — it’s a strategic tool for:
  
